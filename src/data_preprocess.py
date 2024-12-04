@@ -3,18 +3,6 @@ import numpy as np
 import os
 
 def load_data(ids_file, data_file):
-    """_summary_
-
-    Args:
-        ids_file (_type_): _description_
-        data_file (_type_): _description_
-
-    Raises:
-        FileNotFoundError: _description_
-
-    Returns:
-        _type_: _description_
-    """
     
     if not os.path.exists(ids_file) or not os.path.exists(data_file):
         raise FileNotFoundError(f"One or more input files not found: {ids_file}, {data_file}")
