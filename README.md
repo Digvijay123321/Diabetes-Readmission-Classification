@@ -58,6 +58,9 @@ By predicting early readmissions, healthcare providers can implement interventio
 - Seaborn
 - Jupyter Notebook
 
+## Future Scope
+- For our Diabetes Readmission Classification project, we're not just stopping here. Looking ahead, we aim to significantly enhance our predictive model by incorporating more advanced machine learning techniques and exploring deeper into ensemble methods and neural networks. We also plan to augment our dataset with more diverse demographic and geographic data to improve prediction accuracy and reduce biases. To truly integrate our model into clinical workflows, we're considering a real-time predictive system that could work seamlessly within hospital information systems, providing timely insights directly to healthcare providers. Additionally, we'll focus on rigorous outcome-based studies to track the impact of our model on patient outcomes and healthcare costs, ensuring our predictions translate into tangible benefits. And of course, as we scale and deploy our model more broadly, we'll be mindful of maintaining the highest ethical standards and adherence to all regulatory requirements to safeguard patient data and ensure fairness in our predictions. This is just the beginning, and the potential to transform diabetes management through our work is tremendous.
+
 ## Setup
 1. Clone the repository:
    ```bash
